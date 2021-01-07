@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Video On Demand",
+  "name": "Create Video On Demand Service",
   "icons": [
     {
       "src": "favicon.ico",
