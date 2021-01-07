@@ -5,7 +5,7 @@ import VideoCallIcon from "@material-ui/icons/VideoCall";
 import AppsIcon from "@material-ui/icons/Apps";
 import NotificationIcon from "@material-ui/icons/Notifications";
 import Avatar from "@material-ui/core/Avatar";
-import "../src/styles/Header.css";
+import "./styles/Header.css";
 function Header() {
   return (
     <div className="header">

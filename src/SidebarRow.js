@@ -1,5 +1,5 @@
 import React from 'react'
-import '../src/styles/SidebarRow.css'
+import './styles/SidebarRow.css'
 function SidebarRow({selected,title,Icon}) {
     return (
         <div className={`sidebarRow ${selected &&'selected'}`}>

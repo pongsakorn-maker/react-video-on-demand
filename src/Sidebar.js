@@ -1,6 +1,6 @@
 import React from "react";
 import SidebarRow from "./SidebarRow";
-import "../src/styles/Sidebar.css";
+import "./styles/Sidebar.css";
 import {
   Home,
   Whatshot,
